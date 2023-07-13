@@ -1,5 +1,8 @@
 # Slinky
+
 Slinky takes advantage of a vulnerability found in most modern web browsers to implement a sly link.
+
+![](assets/slinky.png)
 
 ## How it works
 A sly link is best explained by demonstrating how it works.
